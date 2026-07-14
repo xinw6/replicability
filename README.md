@@ -4,7 +4,7 @@
 We have feature data in all_features.csv, along with the codebook codebook.xlsx.
 
 ## Code
-Models: run each model for all feature data, citation-feature reduced data, including using SMOTENC and minmax/standard scaler.
+Models: run each model for all-feature data and citation-feature-reduced data, including using SMOTENC and minmax/standard scaler.
 - LogisticRegression.py -> Logistic Regression
 - MLP.py -> Multilayer Perceptron
 - RandomForest.py -> Random Forest
