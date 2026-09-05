@@ -19,3 +19,5 @@ XAI: use three XAI mehtods to address explainability for the model XGBoost
 ## Files
 - feature-table.pdf: the single pdf page containing all features, the descriptions, the data types, and sources
 - acc-fullreduced.pdf: the figure comparing the accuracy of 7 machine learning models on the full dataset and the reduced dataset (excluding citation-related features)
+- pi-allfeatures.pdf: permutation importance (PI) values of XGBoost model with full features. Features with zero or negative PI values are not displayed.
+- pi-nocitation.pdf: PI values of XGBoost model with reduced features (excluding citation-based features). 
