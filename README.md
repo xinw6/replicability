@@ -15,3 +15,6 @@ Models: run each model for all-feature data and citation-feature-reduced data, i
 XAI: use three XAI mehtods to address explainability for the model XGBoost
 - SHAP PI XGBoost.py -> SHAP and Permutation feature importance
 - SPLIME XGBoost.py -> SP-LIME
+
+## Files
+- feature-table.pdf: the single pdf page containing all features, the descriptions, the data types, and sources
